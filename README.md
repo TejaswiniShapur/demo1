@@ -1,4 +1,4 @@
 # demo1
 First repository.
 <br>
-Author - Tejaswini Shapur
+Author - Tejaswini (Anora)
